@@ -1,0 +1,714 @@
+# EESchema Netlist Version 1.1 created  Срд 01 Июн 2011 22:57:46
+(
+ ( /4DDE1621 $noname  R10 10K {Lib=R}
+  (    1 N-000003 )
+  (    2 DGND )
+ )
+ ( /4DDE161B $noname  R3 10K {Lib=R}
+  (    1 N-000038 )
+  (    2 /DVDD_0 )
+ )
+ ( /4DDB81F2 $noname  X1 IDC40 {Lib=IDC40}
+  (    1 /LLC_0 )
+  (    2 /D0_0 )
+  (    3 /LLC_1 )
+  (    4 /D1_0 )
+  (    5 /D2_0 )
+  (    6 /D3_0 )
+  (    7 /D4_0 )
+  (    8 /D5_0 )
+  (    9 /D6_0 )
+  (   10 /D7_0 )
+  (   11 ? )
+  (   12 DGND )
+  (   13 /D8_0 )
+  (   14 /D9_0 )
+  (   15 /~IRQ_0 )
+  (   16 /SDA )
+  (   17 /SCL )
+  (   18 ? )
+  (   19 ? )
+  (   20 /D0_1 )
+  (   21 ? )
+  (   22 /D1_1 )
+  (   23 /D2_1 )
+  (   24 /D3_1 )
+  (   25 /D4_1 )
+  (   26 /D5_1 )
+  (   27 /D6_1 )
+  (   28 /D7_1 )
+  (   29 /DVDDIO )
+  (   30 DGND )
+  (   31 /D8_1 )
+  (   32 /D9_1 )
+  (   33 /~IRQ_1 )
+  (   34 ? )
+  (   35 ? )
+  (   36 ? )
+  (   37 ? )
+  (   38 ? )
+  (   39 ? )
+  (   40 ? )
+ )
+ ( /4DD91A7A $noname  U3 MAX8511 {Lib=MAX8511}
+  (    1 /DVDDIO )
+  (    2 DGND )
+  (    3 /DVDDIO )
+  (    5 N-000057 )
+ )
+ ( /4DD91A89 $noname  U4 MAX9526 {Lib=MAX9526}
+  (    1 N-000005 )
+  (    2 N-000006 )
+  (    3 N-000007 )
+  (    4 DGND )
+  (    5 N-000008 )
+  (    6 ? )
+  (    7 /LLC_0 )
+  (    8 DGND )
+  (    9 N-000003 )
+  (   10 N-000057 )
+  (   11 DGND )
+  (   12 /SDA )
+  (   13 /SCL )
+  (   14 /~IRQ_1 )
+  (   15 /D0_1 )
+  (   16 /D1_1 )
+  (   17 /D2_1 )
+  (   18 /D3_1 )
+  (   19 /D4_1 )
+  (   20 /D5_1 )
+  (   21 /LLC_1 )
+  (   22 N-000057 )
+  (   23 DGND )
+  (   24 /DVDDIO )
+  (   25 /D6_1 )
+  (   26 /D7_1 )
+  (   27 /D8_1 )
+  (   28 /D9_1 )
+ )
+ ( /4DD91A82 $noname  L2 TDK_MMZ1608R301A {Lib=TDK_MMZ1608R301A}
+  (    1 N-000057 )
+  (    2 N-000008 )
+ )
+ ( /4DD91A81 $noname  C19 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 N-000008 )
+ )
+ ( /4DD91A80 $noname  C20 10uF {Lib=CPOL}
+  (    1 DGND )
+  (    2 N-000008 )
+ )
+ ( /4DD91A7F $noname  C21 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 N-000057 )
+ )
+ ( /4DD91A7E $noname  C22 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 N-000057 )
+ )
+ ( /4DD91A7D $noname  C23 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 /DVDDIO )
+ )
+ ( /4DD91A7B $noname  C24 10uF {Lib=CPOL}
+  (    1 DGND )
+  (    2 /DVDDIO )
+ )
+ ( /4DD91A77 $noname  C18 10uF {Lib=CPOL}
+  (    1 N-000057 )
+  (    2 DGND )
+ )
+ ( /4DD91A76 $noname  C14 1uF {Lib=C}
+  (    1 DGND )
+  (    2 /DVDDIO )
+ )
+ ( /4DD91A73 $noname  IN2 RCA_SOCKET {Lib=RCA_SOCKET}
+  (    1 N-000042 )
+  (    2 DGND )
+ )
+ ( /4DD91A72 $noname  C15 0.1uF {Lib=C}
+  (    1 N-000043 )
+  (    2 N-000005 )
+ )
+ ( /4DD91A71 $noname  C16 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 N-000006 )
+ )
+ ( /4DD91A70 $noname  C17 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 N-000007 )
+ )
+ ( /4DD91A6E $noname  R8 37.5k {Lib=R}
+  (    1 N-000043 )
+  (    2 N-000042 )
+ )
+ ( /4DD91A6D $noname  R9 37.5k {Lib=R}
+  (    1 N-000043 )
+  (    2 DGND )
+ )
+ ( /4DD91A67 $noname  R11 10K {Lib=R}
+  (    1 /~IRQ_1 )
+  (    2 /DVDDIO )
+ )
+ ( /4DD90541 $noname  R4 10K {Lib=R}
+  (    1 /DVDDIO )
+  (    2 /SCL )
+ )
+ ( /4DD90530 $noname  R5 10K {Lib=R}
+  (    1 /DVDDIO )
+  (    2 /SDA )
+ )
+ ( /4DD8FE5F $noname  R6 10K {Lib=R}
+  (    1 /~IRQ_0 )
+  (    2 /DVDDIO )
+ )
+ ( /4DD8FE0D $noname  C13 47pF {Lib=C}
+  (    1 N-000037 )
+  (    2 DGND )
+ )
+ ( /4DD8FDF5 $noname  C12 47pF {Lib=C}
+  (    1 N-000054 )
+  (    2 DGND )
+ )
+ ( /4DD8FDC2 $noname  R7 1M {Lib=R}
+  (    1 N-000037 )
+  (    2 N-000054 )
+ )
+ ( /4DD8FD93 $noname  Y1 CRYSTAL {Lib=CRYSTAL}
+  (    1 N-000037 )
+  (    2 N-000054 )
+ )
+ ( /4DD8F963 $noname  R2 37.5k {Lib=R}
+  (    1 N-000056 )
+  (    2 DGND )
+ )
+ ( /4DD8F906 $noname  R1 37.5k {Lib=R}
+  (    1 N-000056 )
+  (    2 N-000055 )
+ )
+ ( /4DD8F66A $noname  C4 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 N-000036 )
+ )
+ ( /4DD8F641 $noname  C3 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 N-000035 )
+ )
+ ( /4DD8F60F $noname  C2 0.1uF {Lib=C}
+  (    1 N-000056 )
+  (    2 N-000034 )
+ )
+ ( /4DD8F5D1 $noname  IN1 RCA_SOCKET {Lib=RCA_SOCKET}
+  (    1 N-000055 )
+  (    2 DGND )
+ )
+ ( /4DD8EEBF $noname  C1 1uF {Lib=C}
+  (    1 DGND )
+  (    2 /DVDDIO )
+ )
+ ( /4DD8EEBA $noname  C5 10uF {Lib=CPOL}
+  (    1 /DVDD_0 )
+  (    2 DGND )
+ )
+ ( /4DD8EE01 $noname  U1 MAX8511 {Lib=MAX8511}
+  (    1 /DVDDIO )
+  (    2 DGND )
+  (    3 /DVDDIO )
+  (    5 /DVDD_0 )
+ )
+ ( /4DD8DF99 $noname  C11 10uF {Lib=CPOL}
+  (    1 DGND )
+  (    2 /DVDDIO )
+ )
+ ( /4DD8DF81 $noname  C10 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 /DVDDIO )
+ )
+ ( /4DD8DF7C $noname  C9 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 /DVDD_0 )
+ )
+ ( /4DD8DF67 $noname  C8 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 /DVDD_0 )
+ )
+ ( /4DD8DE07 $noname  C7 10uF {Lib=CPOL}
+  (    1 DGND )
+  (    2 N-000033 )
+ )
+ ( /4DD8DDFB $noname  C6 0.1uF {Lib=C}
+  (    1 DGND )
+  (    2 N-000033 )
+ )
+ ( /4DD8DDA9 $noname  L1 TDK_MMZ1608R301A {Lib=TDK_MMZ1608R301A}
+  (    1 /DVDD_0 )
+  (    2 N-000033 )
+ )
+ ( /4DD816EE $noname  U2 MAX9526 {Lib=MAX9526}
+  (    1 N-000034 )
+  (    2 N-000035 )
+  (    3 N-000036 )
+  (    4 DGND )
+  (    5 N-000033 )
+  (    6 N-000037 )
+  (    7 N-000054 )
+  (    8 DGND )
+  (    9 N-000038 )
+  (   10 /DVDD_0 )
+  (   11 DGND )
+  (   12 /SDA )
+  (   13 /SCL )
+  (   14 /~IRQ_0 )
+  (   15 /D0_0 )
+  (   16 /D1_0 )
+  (   17 /D2_0 )
+  (   18 /D3_0 )
+  (   19 /D4_0 )
+  (   20 /D5_0 )
+  (   21 /LLC_0 )
+  (   22 /DVDD_0 )
+  (   23 DGND )
+  (   24 /DVDDIO )
+  (   25 /D6_0 )
+  (   26 /D7_0 )
+  (   27 /D8_0 )
+  (   28 /D9_0 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component U3
+ SC70
+ sc70-6
+$endlist
+$component U4
+ QSOP28
+$endlist
+$component L2
+ SM0603
+$endlist
+$component C19
+ SM*
+ C?
+ C1-1
+$endlist
+$component C20
+ SM*
+ C?
+ C1-1
+$endlist
+$component C21
+ SM*
+ C?
+ C1-1
+$endlist
+$component C22
+ SM*
+ C?
+ C1-1
+$endlist
+$component C23
+ SM*
+ C?
+ C1-1
+$endlist
+$component C24
+ SM*
+ C?
+ C1-1
+$endlist
+$component C18
+ SM*
+ C?
+ C1-1
+$endlist
+$component C14
+ SM*
+ C?
+ C1-1
+$endlist
+$component IN2
+ RC-39
+$endlist
+$component C15
+ SM*
+ C?
+ C1-1
+$endlist
+$component C16
+ SM*
+ C?
+ C1-1
+$endlist
+$component C17
+ SM*
+ C?
+ C1-1
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component C13
+ SM*
+ C?
+ C1-1
+$endlist
+$component C12
+ SM*
+ C?
+ C1-1
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component IN1
+ RC-39
+$endlist
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component U1
+ SC70
+ sc70-6
+$endlist
+$component C11
+ SM*
+ C?
+ C1-1
+$endlist
+$component C10
+ SM*
+ C?
+ C1-1
+$endlist
+$component C9
+ SM*
+ C?
+ C1-1
+$endlist
+$component C8
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component L1
+ SM0603
+$endlist
+$component U2
+ QSOP28
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 "DGND" "DGND"
+ X1 12
+ U2 4
+ C10 1
+ R10 2
+ U3 2
+ U2 8
+ U4 4
+ U1 2
+ C11 1
+ U2 11
+ U2 23
+ C9 1
+ C8 1
+ C7 1
+ C6 1
+ IN1 2
+ C1 1
+ C5 2
+ U4 23
+ C4 1
+ C18 2
+ C14 1
+ C3 1
+ IN2 2
+ R9 2
+ C16 1
+ C17 1
+ C12 2
+ R2 2
+ U4 8
+ U4 11
+ X1 30
+ C21 1
+ C20 1
+ C22 1
+ C19 1
+ C23 1
+ C24 1
+ C13 2
+Net 3 "" ""
+ U4 9
+ R10 1
+Net 4 "/~IRQ_1" "~IRQ_1"
+ X1 33
+ R11 1
+ U4 14
+Net 5 "" ""
+ C15 2
+ U4 1
+Net 6 "" ""
+ U4 2
+ C16 2
+Net 7 "" ""
+ U4 3
+ C17 2
+Net 8 "" ""
+ C20 2
+ U4 5
+ C19 2
+ L2 2
+Net 9 "/DVDDIO" "DVDDIO"
+ R6 2
+ U4 24
+ C1 2
+ R5 1
+ R4 1
+ U1 1
+ U1 3
+ C14 2
+ C23 2
+ C24 2
+ U2 24
+ X1 29
+ U3 1
+ U3 3
+ C11 2
+ R11 2
+ C10 2
+Net 13 "/D6_0" "D6_0"
+ U2 25
+ X1 9
+Net 14 "/D4_0" "D4_0"
+ U2 19
+ X1 7
+Net 15 "/D2_0" "D2_0"
+ U2 17
+ X1 5
+Net 16 "/D7_0" "D7_0"
+ U2 26
+ X1 10
+Net 17 "/D5_0" "D5_0"
+ X1 8
+ U2 20
+Net 18 "/D3_0" "D3_0"
+ X1 6
+ U2 18
+Net 19 "/D1_0" "D1_0"
+ U2 16
+ X1 4
+Net 20 "/D0_0" "D0_0"
+ U2 15
+ X1 2
+Net 21 "/LLC_1" "LLC_1"
+ U4 21
+ X1 3
+Net 22 "/LLC_0" "LLC_0"
+ U4 7
+ U2 21
+ X1 1
+Net 28 "/D8_0" "D8_0"
+ X1 13
+ U2 27
+Net 29 "/D9_0" "D9_0"
+ X1 14
+ U2 28
+Net 33 "" ""
+ C7 2
+ U2 5
+ C6 2
+ L1 2
+Net 34 "" ""
+ U2 1
+ C2 2
+Net 35 "" ""
+ U2 2
+ C3 2
+Net 36 "" ""
+ U2 3
+ C4 2
+Net 37 "" ""
+ Y1 1
+ R7 1
+ C13 1
+ U2 6
+Net 38 "" ""
+ U2 9
+ R3 1
+Net 39 "/SDA" "SDA"
+ U4 12
+ R5 2
+ U2 12
+ X1 16
+Net 40 "/SCL" "SCL"
+ U2 13
+ R4 2
+ X1 17
+ U4 13
+Net 41 "/~IRQ_0" "~IRQ_0"
+ X1 15
+ R6 1
+ U2 14
+Net 42 "" ""
+ R8 2
+ IN2 1
+Net 43 "" ""
+ C15 1
+ R9 1
+ R8 1
+Net 44 "/D0_1" "D0_1"
+ X1 20
+ U4 15
+Net 45 "/D1_1" "D1_1"
+ X1 22
+ U4 16
+Net 46 "/D2_1" "D2_1"
+ X1 23
+ U4 17
+Net 47 "/D3_1" "D3_1"
+ U4 18
+ X1 24
+Net 48 "/D4_1" "D4_1"
+ U4 19
+ X1 25
+Net 49 "/D5_1" "D5_1"
+ U4 20
+ X1 26
+Net 50 "/D6_1" "D6_1"
+ U4 25
+ X1 27
+Net 51 "/D7_1" "D7_1"
+ U4 26
+ X1 28
+Net 52 "/D8_1" "D8_1"
+ U4 27
+ X1 31
+Net 53 "/D9_1" "D9_1"
+ X1 32
+ U4 28
+Net 54 "" ""
+ U2 7
+ C12 1
+ Y1 2
+ R7 2
+Net 55 "" ""
+ IN1 1
+ R1 2
+Net 56 "" ""
+ R2 1
+ R1 1
+ C2 1
+Net 57 "" ""
+ C18 1
+ U4 10
+ L2 1
+ C21 2
+ C22 2
+ U4 22
+ U3 5
+Net 58 "/DVDD_0" "DVDD_0"
+ R3 2
+ C9 2
+ C8 2
+ L1 1
+ C5 1
+ U1 5
+ U2 22
+ U2 10
+}
+#End
